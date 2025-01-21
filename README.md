@@ -5,3 +5,6 @@ Features:
 2. In-Memory Indexing: Builds an efficient in-memory index of words from the text files.
 3. Complex Queries: Supports queries with required (+term) and optional terms, including logical OR groups.
 4. Relevance Sorting: Results are sorted by the number of matching terms.
+
+
+time: ~1hr
